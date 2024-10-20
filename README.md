@@ -1,8 +1,12 @@
-# React + Vite
+# React World tour
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It is a simple representation of extracting data from API in React library.
 
-Currently, two official plugins are available:
+Six core components of ReactJS has been used in this project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Components
+2. JSX
+3. Props
+4. eventHandler
+5. State
+6. useEffect

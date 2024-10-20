@@ -91,7 +91,10 @@ const Country = ({ country, handleVisitedCountries, handleVisitedFlags }) => {
                 >
                     Add to visited
                 </button>
-                <button onClick={() => handleVisitedFlags(country.flags.png)}>
+                <button
+                    className="px-4 py-2 m-4 font-bold text-white bg-purple-500 rounded-lg"
+                    onClick={() => handleVisitedFlags(country.flags.png)}
+                >
                     Add visited flags
                 </button>
             </div>
